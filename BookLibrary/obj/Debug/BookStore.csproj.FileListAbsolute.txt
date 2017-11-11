@@ -1,0 +1,7 @@
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibrary\bin\Debug\BookLibrary.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibrary\bin\Debug\BookLibrary.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibrary\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibrary\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibrary\obj\Debug\BookLibrary.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibrary\obj\Debug\BookLibrary.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibrary\bin\Debug\BookLibrary.dll.config

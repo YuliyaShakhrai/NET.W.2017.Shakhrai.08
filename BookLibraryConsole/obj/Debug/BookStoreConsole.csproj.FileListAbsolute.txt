@@ -1,0 +1,10 @@
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibraryConsole\bin\Debug\BookLibraryConsole.exe.config
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibraryConsole\bin\Debug\BookLibraryConsole.exe
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibraryConsole\bin\Debug\BookLibraryConsole.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibraryConsole\bin\Debug\BookLibrary.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibraryConsole\bin\Debug\BookLibrary.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibraryConsole\obj\Debug\BookStoreConsole.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibraryConsole\obj\Debug\BookStoreConsole.csproj.CoreCompileInputs.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibraryConsole\obj\Debug\BookLibraryConsole.exe
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibraryConsole\obj\Debug\BookLibraryConsole.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.08\BookLibraryConsole\bin\Debug\BookLibrary.dll.config
